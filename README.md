@@ -17,7 +17,7 @@ Filter can be used to filter image by 4 different ways:
 
 ![image](https://user-images.githubusercontent.com/95561298/179400083-f7f1d4ec-ed9f-45ac-a5cb-cb58b8536a79.png)
 
-4) **Edges**: The edges function should take an image and highlight the edges between objects, according to the Sobel operator. Edges is represented by "-e". The edges of the image is as shown below. 
+4) **Edges**: The edges function should take an image and highlight the edges between objects, according to the Sobel operator. Edges is represented by "-e". The edges of the image are detected by using Sobel Edge Detection algorithm and the filtered image is as shown below. 
 
 ![image](https://user-images.githubusercontent.com/95561298/179400094-affb9d61-49cd-4220-b746-a2b66fe14608.png)
 
