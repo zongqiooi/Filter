@@ -15,11 +15,7 @@ Filter can be used to filter image by 4 different ways:
 # How to Run the Project
 1) Download all the files.
 2) Open the "filter.c" file and run the project.
-3) Run the command 
-`./filter -g images/yard.bmp out.bmp` for grayscale. 
-`./filter -r images/yard.bmp out.bmp` for reflect. 
-`./filter -b images/yard.bmp out.bmp` for blur. 
-`./filter -e images/yard.bmp out.bmp` for edges. 
+3) Run the command `./filter -g images/yard.bmp out.bmp` for grayscale, `./filter -r images/yard.bmp out.bmp` for reflect, `./filter -b images/yard.bmp out.bmp` for blur, `./filter -e images/yard.bmp out.bmp` for edges. 
 
 # Some Filtered Images from the Program
 **Grayscale**
